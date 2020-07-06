@@ -13,4 +13,4 @@ I hope you enjoy the report!
 
 
 
-Utilises: Various packages in Python
+Utilises: Various packages in Python (pandas, numpy, requests, tweepy, json, timeit, matplotlib, seaborn)
