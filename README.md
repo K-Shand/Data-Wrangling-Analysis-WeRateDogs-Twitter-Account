@@ -10,3 +10,7 @@ WeRateDogs has an international audience with over 8.7 million followers. I will
 Finally, a well documented conclusion will form a summary of the main findings of the report.
 
 I hope you enjoy the report!
+
+
+
+Utilises: Various packages in Python
